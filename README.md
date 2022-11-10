@@ -8,5 +8,5 @@ jandziodziobusiness@gmail.com /
     My acctual Projects
 1. https://twocastles.eu/
 2. Bit Bot          
-3. now i'm learning PHP / HTML / CSS / JS (to build very big project)
+3. now i'm learning PHP 
                     
