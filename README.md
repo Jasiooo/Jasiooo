@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Jasio</h1>
-<h4 align="center">A PHP developer using the Laravel framework with over a dozen projects of 5000+ lines of code behind him. <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf" target="_blank">resume</a> for more</h4>
+<h4 align="center">A PHP developer using the Laravel framework with over a dozen projects of 5000+ lines of code behind him.</h4>
 </div>
 
 <div align="center">
